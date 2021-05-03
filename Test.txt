@@ -4,11 +4,6 @@
 <title>Our Funky HTML Page</title>
 <meta name="description" content="Our first page">
 <meta name="keywords" content="html tutorial template">
-</head>
-<body>
-Content goes here.
-</body>
-</html>
 echo "# Organisation" >> README.md
 git init
 git add README.md
@@ -16,3 +11,8 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/swoopididoop/Organisation.git
 git push -u origin main
+</head>
+<body>
+Content goes here.
+</body>
+</html>
